@@ -1,3 +1,3 @@
-email = 'ovm459@gmail.com'
-password = 'Zaq111Zaq'
-phone = '79872989310'
+email = 'test@gmail.com'
+password = 'password'
+phone = 'phone_number'
